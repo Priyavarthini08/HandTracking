@@ -3,7 +3,9 @@ HAND TRACKING WITH OPENCV
 Hand tracking using MediaPipe involves two stages:
 
 Palm detection - MediaPipe works on the complete input image and provides a cropped image of the hand.
+
 Hand landmarks identification - MediaPipe finds the 21 hand landmarks on the cropped image of the hand.
+
 The 21 hand points that MediaPipe identifies are shown in the image below:
 ![image](https://github.com/Priyavarthini08/HandTracking/assets/145207599/bb2312f2-7fa8-4669-86d4-38eef62f505d)
 
