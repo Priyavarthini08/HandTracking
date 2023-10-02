@@ -1,0 +1,2 @@
+opencv-python   to perform operations associated with computer vision
+mediapipe    to perform the actual hand detection and tracking 
